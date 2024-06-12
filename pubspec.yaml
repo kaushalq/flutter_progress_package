@@ -1,0 +1,20 @@
+name: smooth_progress_bar_indicator
+description: A Flutter package to display a linear progress bar indicator.
+version: 0.0.1
+homepage: https://github.com/kaushalq/flutter_progress_package
+repository: https://github.com/kaushalq/flutter_progress_package
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
