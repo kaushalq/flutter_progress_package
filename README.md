@@ -21,4 +21,3 @@ dependencies:
     sdk: flutter
   get:
   progress_bar_indicator:
-    path: ../path_to_your_package
